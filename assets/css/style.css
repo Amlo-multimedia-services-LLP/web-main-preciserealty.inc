@@ -109,6 +109,7 @@ h6 {
 
 #header .logo h1 a,
 #header .logo h1 a:hover {
+  padding: 5px;
   color: #fff;
   text-decoration: none;
 }
