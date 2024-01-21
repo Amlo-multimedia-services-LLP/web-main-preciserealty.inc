@@ -113,10 +113,9 @@ h6 {
   text-decoration: none;
 }
 
-#header .logo img {
+img {
   padding:20px;
   margin: 0%;
-  padding-bottom: 6px;
   max-height: 130px;
 }
 
